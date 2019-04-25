@@ -1,0 +1,9 @@
+Natas 5
+
+=> The page says "Access disallowed. You are not logged in".
+=> Then just intercept the header and check there.
+=> In the header, there is a value named "loggedin=0".
+=> Change the value and forward the request.
+=> Server responds with the flag.
+
+Access granted. The password for natas6 is aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1

@@ -1,0 +1,12 @@
+Natas 6
+
+=> The page comes with an input box and View source code button.
+=> When i check the View Source code button, it show me the source code of the validation process.
+=> There also give a file path "includes/secret.inc".
+=> Go and check there for any clue but just blank page.
+=> Nevertheless, always check the page source code. 
+=> There i found the secret key.
+=> Come back to the main page and insert the password in the input box.
+=> The server responds with the flag.
+
+Access granted. The password for natas7 is 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9 

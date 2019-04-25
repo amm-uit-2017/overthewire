@@ -1,0 +1,9 @@
+Natas 4
+
+=> The page says it only accept from the "http://natas5.natas.labs.overthewire.org/".
+=> So intercept the request with burp or any.
+=> Change the referer value in the header with "http://natas5.natas.labs.overthewire.org/".
+=> Then forward the request. 
+=> It responds with the flag.
+
+Access granted. The password for natas5 is iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq

@@ -1,0 +1,10 @@
+Natas 3
+
+=> Check page source.
+=> Found "<!-- No more information leaks!! Not even Google will find it this time... -->"
+=> This could only be robots.txt.
+=> In robots.txt, it give me the /s3cr3t/ directory.
+=> In that directory, there is users.txt.
+=> Flag in it.
+
+natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ

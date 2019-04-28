@@ -1,0 +1,17 @@
+Natas 8
+
+=> Click "View source code" button.
+=> There found a encoded password "3d3d516343746d4d6d6c315669563362".
+=> That looks like a hex encoded password.
+=> After decoding, found a encoded string "==QcCtmMml1ViV3b".
+=> It looks like the base64 but in reverse form.
+=> I just reverse the string with python.
+
+	# "==QcCtmMml1ViV3b"[::-1]
+
+=> Then decode the text with hackbar.
+=> Next got the password for input box, "oubWYf2kBq".
+=> Come back to the home page and submit the password.
+=> The page responds with the password for natas9.
+
+Access granted. The password for natas9 is W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl 

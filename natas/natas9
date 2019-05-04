@@ -1,0 +1,9 @@
+Natas 9
+
+=> There is also an input box and view source code button.
+=> When click view page source, there is a php code that query the input box. 
+=> It accecpts the input word and query with bash to look for the matching word in dictionary.txt.
+=> So put the bash command in the input box to read the file in /etc/natas_webpass/natas10.
+=> Send "; cat /etc/natas_webpass/natas10" in input box, and the server will return with the flag value for natas 10.
+
+natas10 => nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
